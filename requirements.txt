@@ -1,0 +1,7 @@
+tensorflow-addons
+opencv-python
+keras
+tensorflow
+gradio
+numpy
+scikit-image
