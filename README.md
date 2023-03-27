@@ -1,4 +1,3 @@
-# Diabetic Retinopathy Detection
 # Advancing Health Equity: Deep Neural Networks for Preventing Vision Loss in Underrepresented Populations
 
 This repository contains code for a multiclassification deep convolutional neural network (DNN) that classifies Diabetic Retinopathy (DR) severity into No DR, Mild DR, and Referable DR (Moderate/Severe/Proliferative) from retinal images, with a focus on underrepresented populations in AI research. The train and validation datasets for the DNN were obtained from the APTOS 2019 Blindness Detection dataset on Kaggle. 
